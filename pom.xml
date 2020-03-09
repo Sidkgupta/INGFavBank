@@ -90,7 +90,7 @@
 
     <id>deployment</id>
 
-    <url>http://13.233.136.162:8081/nexus/content/repositories/snapshots/</url>
+    <url>http://13.127.24.19:8081/nexus/content/repositories/snapshots/</url>
 
   </snapshotRepository>
 
